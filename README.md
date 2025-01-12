@@ -41,10 +41,11 @@ This project aims to predict hourly electricity production and consumption value
 ## Results
 
 Best performing model (Pyraformer) achieved:
-- MAPE: 3.22%
-- RMSE: 1,721.60 MW
-- MAE: 1,266.61 MW
-- R²: 0.9262
+- MAPE: 2.21%
+- RMSE: 1173.96 MW
+- MAE: 842.03 MW
+- MSE: 1378191.88
+- R²: 0.9657
 
 ## Installation & Usage
 Clone repository
